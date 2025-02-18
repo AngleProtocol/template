@@ -2,8 +2,10 @@
   "rewardToken": "0x8d652c6d4A8F3Db96Cd866C1a9220B1447F29898",
   "rewards": {
     "0x9f76a95AA7535bb0893cf88A146396e00ed21A12": {
-      "reward": "35708900000000000000000",
-      "timestamp": "0"
+      "testing": {
+        "amount": "35708900000000000000000",
+        "timestamp": "0"
+      }      
     }
   }
 }
