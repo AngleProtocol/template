@@ -1,21 +1,2 @@
 {
-  "rewardToken": "0x8d652c6d4A8F3Db96Cd866C1a9220B1447F29898",
-  "rewards": {
-    "0x9f76a95AA7535bb0893cf88A146396e00ed21A12": {
-      "testing": {
-        "amount": "55700000000000000000000",
-        "timestamp": "1732294694"
-      },
-      "testing-2": {
-        "amount": "8900000000000000000",
-        "timestamp": "1732294694"
-      }
-    },
-    "0xfdA462548Ce04282f4B6D6619823a7C64Fdc0185": {
-      "testing": {
-        "amount": "10000000000000000000000",
-        "timestamp": "1732294694"
-      }
-    }
-  }
 }
